@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sohgeifohd.jojowei.top/sitemap.xml
